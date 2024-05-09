@@ -13,6 +13,25 @@
   <defs
      id="defs4252">
     <linearGradient
+       id="linearGradient10">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.29289129;"
+         offset="0.2398524"
+         id="stop6" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.14874816;"
+         offset="0.69280446"
+         id="stop9" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.5;"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient17">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
@@ -46,25 +65,6 @@
          id="stop8" />
     </linearGradient>
     <linearGradient
-       id="linearGradient2">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop2" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.15905744;"
-         offset="0.2398524"
-         id="stop4" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.14874816;"
-         offset="0.69280446"
-         id="stop5" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0.51345873;"
-         offset="1"
-         id="stop3" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient23419-5">
       <stop
          id="stop23421-7"
@@ -86,7 +86,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.5960288,0,0,0.46184767,27.643399,90.761791)" />
     <linearGradient
-       xlink:href="#linearGradient2"
+       xlink:href="#linearGradient10"
        id="linearGradient3"
        x1="65"
        y1="11"
@@ -123,7 +123,7 @@
        gradientTransform="matrix(1.4154263,0,0,2.7225292,-27.00271,-54.343466)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       xlink:href="#linearGradient2"
+       xlink:href="#linearGradient10"
        id="linearGradient9"
        x1="65"
        y1="21.5"
@@ -196,7 +196,7 @@
      id="path6" />
   <path
      id="path2"
-     style="opacity:0.501318;fill:none;fill-opacity:1;stroke:url(#linearGradient3);stroke-linejoin:round;stroke-opacity:1"
+     style="opacity:0.69999383;fill:none;fill-opacity:1;stroke:url(#linearGradient3);stroke-linejoin:round;stroke-opacity:1"
      d="m 60,13 h 10 c 13.296468,0 24,10.703532 24,24 v 20 c 0,24.999871 0.01417,54 -29,54 C 35.985831,111 36,81.999871 36,57 V 37 C 36,23.703532 46.703532,13 60,13 Z" />
   <rect
      style="opacity:0.299737;fill:url(#radialGradient18);fill-opacity:1;stroke:none;stroke-width:0.800001;stroke-linejoin:round;stroke-opacity:0.301961"
@@ -210,5 +210,5 @@
   <path
      id="rect3"
      d="m 62,23.5 h 6 c 0.831259,0 1.5,0.668741 1.5,1.5 v 21 c 0,0.831259 -0.668741,1.5 -1.5,1.5 h -6 c -0.831259,0 -1.5,-0.668741 -1.5,-1.5 V 25 c 0,-0.831259 0.668741,-1.5 1.5,-1.5 z"
-     style="fill:none;fill-opacity:1;stroke:url(#linearGradient9);stroke-linejoin:round" />
+     style="fill:none;fill-opacity:1;stroke:url(#linearGradient9);stroke-linejoin:round;opacity:0.70010078" />
 </svg>
